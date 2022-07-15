@@ -3,10 +3,10 @@
 
   &#xa0;
 
-  <!-- <a href="https://crs.netlify.app">Demo</a> -->
+  <a href="https://paritoshtripathi935-crs-app-d5pxmy.streamlitapp.com/">Demo</a>
 </div>
 
-<h1 align="center">CRS</h1>
+<h1 align="center">Coure Recommendation System</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/paritoshtripathi935/CRS?color=56BEB8">
