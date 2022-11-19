@@ -4,3 +4,11 @@ scikit_learn==1.0.1
 streamlit==1.1.0
 s3fs
 protobuf==3.20.*
+BeautifulSoup4
+bs4
+requests
+pandas
+requests
+bs4
+urllib3
+lxml
